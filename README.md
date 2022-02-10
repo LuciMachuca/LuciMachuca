@@ -16,8 +16,16 @@
 <br><br>
 
 <h3 align="left">My Proyects:</h3>
-<p align="left"> <a href="https://countries-app-first-proyect.vercel.app/" target="_blank" rel="noreferrer"></a></p>
+- At [Countries App](https://countries-app-first-proyect.vercel.app/) developed with 
 <br><br>  
+|--| FrontEnd |--|
+React
+Redux
+|--| BackEnd |--|
+NodeJs
+Express
+Sequelize
+Passport
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
