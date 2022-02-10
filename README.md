@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Luci</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Luci Machuca :wave:
+    <br><br>
+    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    <br><br>
+    I believe in a world where effective communication can solve each and every problem :grin:
+    <br><br>
+  </samp>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
