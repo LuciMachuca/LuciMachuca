@@ -16,7 +16,7 @@
 <br><br>
 
 <h3 align="left">My Proyects:</h3>
-<p align="left"> <a href="https://countries-app-first-proyect.vercel.app/">
+<p align="left"> <a href="https://countries-app-first-proyect.vercel.app/" target="_blank" rel="noreferrer">
 <br><br>  
   
 <h3 align="left">Connect with me:</h3>
