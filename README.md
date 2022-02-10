@@ -22,12 +22,12 @@
   Individual Project developed for the Full Stack Web Development Bootcamp, it is a Single Page Application with the theme of Countries.<br>
   Implementing functionalities of filtering, search, ordering and creation of new information cards of tourist activities .<br>
   <strong>Tecnologías</stong><br>
-  - React
-  - Redux
-  - Postgres
-  - Sql
-  - Node
-  - Express
+  - React<br>
+  - Redux<br>
+  - Postgres<br>
+  - Sql<br>
+  - Node<br>
+  - Express<br>
 </p>
   
 <h3 align="left">Connect with me:</h3>
