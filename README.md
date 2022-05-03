@@ -38,10 +38,10 @@
 <br>
 
 <a href="https://dona-juana-nono.vercel.app/">Cabañas Doña Juana</a>
+<br>
 <p>
-  It is a Web Page developed with create-react-app that adapts to all types of devices.<br>
-  
-  <strong>Technologies</stong>
+  It is a Web Page developed with create-react-app that adapts to all types of devices.
+  <strong>Technologies</stong><br>
   - React<br>
   - Redux<br>
   - CSS3<br>
@@ -52,17 +52,18 @@
 <br>
 
 <a href="#">VIDEOGAMES</a>
+<br>
 <p>
   Videogame-themed SPA, developed entirely with JavaScript and consuming data from the "RAWG" API.<br>
-  Fits all devices.<br>
+  Fits all devices.
   <br>
-  <strong>Technologies</stong>
+  <strong>Technologies</stong><br>
   Back End -> Node.JS - Express - JavaScript<br>
   Front End -> React - Redux - JavaScript<br>
   Database -> PostgreSQL - Sequelize<br>
   Styles -> BOOTSTRAP 5 y CSS3<br>
   <br>
-  <strong>Some Features of the Project</stong>
+  <strong>Some Features of the Project</stong><br>
    - Search Cache<br>
    - Filters and Sorts<br>
    - Paginated<br>
