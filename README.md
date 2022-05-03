@@ -21,13 +21,12 @@
 <p>
   CountriesApp is my first integral project developing a SPA (Single Page Application) with Countries theme,
   consuming data from an API (REST Countries).<br>
-  <br>
   <strong>Technologies</stong><br>
   
-  Back End -> Node.JS - Express - JavaScript 
-  Front End -> React - Redux - JavaScript
-  Database -> PostgreSQL - Sequelize
-  Styles -> CSS (no use of external libraries)
+  Back End -> Node.JS - Express - JavaScript <br>
+  Front End -> React - Redux - JavaScript <br>
+  Database -> PostgreSQL - Sequelize <br>
+  Styles -> CSS (no use of external libraries) <br>
   <br>
   <strong>Some Features of the Project</stong><br>
    - Search Cache
@@ -43,7 +42,7 @@
 <br>
 <p>
   It is a Web Page developed with create-react-app that adapts to all types of devices.<br>
-  <br>
+  
   <strong>Technologies</stong><br>
   - React<br>
   - Redux<br>
@@ -53,14 +52,12 @@
 </p>
 
 <br>
-<br>
 
 <a href="#">VIDEOGAMES</a>
 <br>
 <p>
   Videogame-themed SPA, developed entirely with JavaScript and consuming data from the "RAWG" API.<br>
   Fits all devices.<br>
-  <br>
   <strong>Technologies</stong><br>
   
   Back End -> Node.JS - Express - JavaScript 
@@ -75,7 +72,6 @@
    - Controlled Form
 </p>
 
-<br>
 <br>
   
 <h3 align="left">Connect with me:</h3>
