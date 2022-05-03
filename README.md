@@ -41,7 +41,7 @@
 <p>
   It is a Web Page developed with create-react-app that adapts to all types of devices.<br>
   
-  <strong>Technologies</stong><br>
+  <strong>Technologies</stong>
   - React<br>
   - Redux<br>
   - CSS3<br>
@@ -56,14 +56,13 @@
   Videogame-themed SPA, developed entirely with JavaScript and consuming data from the "RAWG" API.<br>
   Fits all devices.<br>
   <br>
-  <strong>Technologies</stong><br>
-  
+  <strong>Technologies</stong>
   Back End -> Node.JS - Express - JavaScript<br>
   Front End -> React - Redux - JavaScript<br>
   Database -> PostgreSQL - Sequelize<br>
   Styles -> BOOTSTRAP 5 y CSS3<br>
   <br>
-  <strong>Some Features of the Project</stong><br>
+  <strong>Some Features of the Project</stong>
    - Search Cache<br>
    - Filters and Sorts<br>
    - Paginated<br>
