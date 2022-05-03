@@ -29,10 +29,10 @@
   Styles -> CSS (no use of external libraries) <br>
   <br>
   <strong>Some Features of the Project</stong><br>
-   - Search Cache
-   - Filters and Sorts
-   - Paginated
-   - Controlled Form
+   - Search Cache<br>
+   - Filters and Sorts<br>
+   - Paginated<br>
+   - Controlled Form<br>
 </p>
 
 <br>
@@ -55,18 +55,19 @@
 <p>
   Videogame-themed SPA, developed entirely with JavaScript and consuming data from the "RAWG" API.<br>
   Fits all devices.<br>
+  <br>
   <strong>Technologies</stong><br>
   
-  Back End -> Node.JS - Express - JavaScript 
-  Front End -> React - Redux - JavaScript
-  Database -> PostgreSQL - Sequelize
-  Styles -> BOOTSTRAP 5 y CSS3
+  Back End -> Node.JS - Express - JavaScript<br>
+  Front End -> React - Redux - JavaScript<br>
+  Database -> PostgreSQL - Sequelize<br>
+  Styles -> BOOTSTRAP 5 y CSS3<br>
   <br>
   <strong>Some Features of the Project</stong><br>
-   - Search Cache
-   - Filters and Sorts
-   - Paginated
-   - Controlled Form
+   - Search Cache<br>
+   - Filters and Sorts<br>
+   - Paginated<br>
+   - Controlled Form<br>
 </p>
 
 <br>
