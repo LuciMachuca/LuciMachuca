@@ -38,9 +38,9 @@
 <br>
 
 <a href="https://dona-juana-nono.vercel.app/">Cabañas Doña Juana</a>
-<br>
 <p>
   It is a Web Page developed with create-react-app that adapts to all types of devices.<br>
+  <br>
   <strong>Technologies</stong><br>
   - React<br>
   - Redux<br>
@@ -68,7 +68,6 @@
    - Controlled Form<br>
 </p>
 
-<br>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
