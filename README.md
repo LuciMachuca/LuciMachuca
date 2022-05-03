@@ -19,16 +19,64 @@
 <a href="https://countries-app-first-proyect.vercel.app/">Countries App</a>
 <br>
 <p>
-  Individual Project developed for the Full Stack Web Development Bootcamp, it is a Single Page Application with the theme of Countries.<br>
-  Implementing functionalities of filtering, search, ordering and creation of new information cards of tourist activities .<br>
-  <strong>Tecnologías</stong><br>
+  CountriesApp is my first integral project developing a SPA (Single Page Application) with Countries theme,
+  consuming data from an API (REST Countries).<br>
+  <br>
+  <strong>Technologies</stong><br>
+  
+  Back End -> Node.JS - Express - JavaScript 
+  Front End -> React - Redux - JavaScript
+  Database -> PostgreSQL - Sequelize
+  Styles -> CSS (no use of external libraries)
+  <br>
+  <strong>Some Features of the Project</stong><br>
+   - Search Cache
+   - Filters and Sorts
+   - Paginated
+   - Controlled Form
+</p>
+
+<br>
+<br>
+
+<a href="https://dona-juana-nono.vercel.app/">Cabañas Doña Juana</a>
+<br>
+<p>
+  It is a Web Page developed with create-react-app that adapts to all types of devices.<br>
+  <br>
+  <strong>Technologies</stong><br>
   - React<br>
   - Redux<br>
-  - Postgres<br>
-  - Sql<br>
-  - Node<br>
-  - Express<br>
+  - CSS3<br>
+  - Material UI<br>
+  - Bootstrap 5<br>
 </p>
+
+<br>
+<br>
+
+<a href="#">VIDEOGAMES</a>
+<br>
+<p>
+  Videogame-themed SPA, developed entirely with JavaScript and consuming data from the "RAWG" API.<br>
+  Fits all devices.<br>
+  <br>
+  <strong>Technologies</stong><br>
+  
+  Back End -> Node.JS - Express - JavaScript 
+  Front End -> React - Redux - JavaScript
+  Database -> PostgreSQL - Sequelize
+  Styles -> BOOTSTRAP 5 y CSS3
+  <br>
+  <strong>Some Features of the Project</stong><br>
+   - Search Cache
+   - Filters and Sorts
+   - Paginated
+   - Controlled Form
+</p>
+
+<br>
+<br>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
