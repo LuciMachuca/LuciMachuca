@@ -21,21 +21,20 @@
 <p>
   CountriesApp is my first integral project developing a SPA (Single Page Application) with Countries theme,
   consuming data from an API (REST Countries).<br>
-  <strong>Technologies</stong><br>
-  
+  <br>
+  <strong>Technologies</stong>
   Back End -> Node.JS - Express - JavaScript <br>
   Front End -> React - Redux - JavaScript <br>
   Database -> PostgreSQL - Sequelize <br>
   Styles -> CSS (no use of external libraries) <br>
   <br>
-  <strong>Some Features of the Project</stong><br>
+  <strong>Some Features of the Project</stong>
    - Search Cache
    - Filters and Sorts
    - Paginated
    - Controlled Form
 </p>
 
-<br>
 <br>
 
 <a href="https://dona-juana-nono.vercel.app/">Cabañas Doña Juana</a>
