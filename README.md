@@ -51,7 +51,7 @@
 
 <br>
 
-<a href="#">VIDEOGAMES</a>
+<a href="https://videogames-by-luci-machuca.vercel.app/">VIDEOGAMES</a>
 <p> Videogame-themed SPA, developed entirely with JavaScript and consuming data from the "RAWG" API.<br>
   Fits all devices.<br>
   <br>
